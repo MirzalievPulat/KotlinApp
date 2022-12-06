@@ -14,17 +14,7 @@
         android:layout_height="31dp"
         android:layout_marginStart="180dp"
         android:layout_marginTop="300dp"
-        android:text="1-page"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/openSecond"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="136dp"
-        android:layout_marginTop="340dp"
-        android:text="open 2-page"
+        android:text="2-page"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
